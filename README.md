@@ -44,7 +44,7 @@ Te creamos tu pagina
     </style>
 </head>
 <body>
-    <a href="file:///D:/monografia%20programa/web/index.html" class="boton">atras</a>
+    <a href="https://ice200626.github.io/web-001/" class="boton">atras</a>
 </body>
 </html>
 </center>

@@ -126,7 +126,7 @@ Te creamos tu pagina
     </style>
 </head>
 <body>
-    <a href="https://www.ejemplo.com" class="btn">entrar</a>
+    <a href="https://ice200626.github.io/web-003/" class="btn">entrar</a>
 </body>
 </html>
 

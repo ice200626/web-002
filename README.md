@@ -44,7 +44,7 @@ Te creamos tu pagina
     </style>
 </head>
 <body>
-    <a href="https://ice200626.github.io/web-001/" class="boton">atras</a>
+    <a href="https://ice200626.github.io/web-003/" class="boton">atras</a>
 </body>
 </html>
 </center>
@@ -59,7 +59,7 @@ Te creamos tu pagina
 
 </head>
 <body>
-    <a href="file:///D:/monografia%20programa/web/03.html">
+    <a href="https://ice200626.github.io/web-003/">
         <img src="f1.jpg" alt="Descripción de la imagen" width="300" height="200">
     </a>
 </body>
@@ -87,7 +87,7 @@ Te creamos tu pagina
     </style>
 </head>
 <body>
-    <a href="https://www.ejemplo.com" class="btn">entrar</a>
+    <a href="https://ice200626.github.io/web-003/" class="btn">entrar</a>
 </body>
 </html>
 
@@ -100,7 +100,7 @@ Te creamos tu pagina
   
 </head>
 <body>
-    <a href="file:///D:/monografia%20programa/web/03.html">
+    <a href="https://ice200626.github.io/web-003/">
         <img src="f2.jpg" alt="Descripción de la imagen" width="300" height="200">
     </a>
 </body>
@@ -143,7 +143,7 @@ Te creamos tu pagina
    
 </head>
 <body>
-    <a href="file:///D:/monografia%20programa/web/03.html">
+    <a href="https://ice200626.github.io/web-003/">
         <img src="f3.jpg" alt="Descripción de la imagen" width="300" height="200">
     </a>
 </body>
@@ -170,7 +170,7 @@ Te creamos tu pagina
     </style>
 </head>
 <body>
-    <a href="https://www.ejemplo.com" class="btn">entrar</a>
+    <a href="https://ice200626.github.io/web-003/" class="btn">entrar</a>
 </body>
 </html>
 
@@ -188,7 +188,7 @@ Te creamos tu pagina
  
 </head>
 <body>
-    <a href="file:///D:/monografia%20programa/web/03.html">
+    <a href="https://ice200626.github.io/web-003/">
         <img src="f4.jpg" alt="Descripción de la imagen" width="300" height="200">
     </a>
 </body>
@@ -215,7 +215,7 @@ Te creamos tu pagina
     </style>
 </head>
 <body>
-    <a href="https://www.ejemplo.com" class="btn">entrar</a>
+    <a href="https://ice200626.github.io/web-003/" class="btn">entrar</a>
 </body>
 </html>
 

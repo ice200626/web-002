@@ -237,7 +237,7 @@ Te creamos tu pagina
   
     <style>
         body {
-            background-image: url('fondo n1.gif');
+            background-image: url('fondo n1.jpg');
             background-repeat: no-repeat;
             background-size: cover;
         }

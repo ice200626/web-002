@@ -4,7 +4,8 @@
 
 <a href="https://ice200626.github.io/web-003/">
   <img src="boton 002.gif" alt="Example GIF" width="300" height="300"style="color: red;">Este es un texto en color rojo.   >
-</a>
+</a><p style="color: red;">Este es un texto en color rojo.</p>
+
 
 <a href="https://ice200626.github.io/web-003/">
   <img src="boton 003.gif" alt="Example GIF" width="300" height="300">

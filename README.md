@@ -54,6 +54,6 @@
 </body>
 </html>
 
-<button onclick="history.back()">Atrás</button>
+
 
 

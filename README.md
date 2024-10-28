@@ -12,7 +12,7 @@
 
 
     <H2><p> 
-     puedes decirnos que tiene en mente para tu pagina web 
+     puedes decirnos que tienes en mente para tu pagina web 
         </p></H2>
 
     

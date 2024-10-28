@@ -60,7 +60,7 @@ Te creamos tu pagina
 </head>
 <body>
     <a href="https://ice200626.github.io/web-003/">
-        <img src="f1.jpg" alt="Descripción de la imagen" width="300" height="200">
+        <img src="fondo 002.gif" alt="Descripción de la imagen" width="300" height="200">
     </a>
 </body>
 </html>
@@ -101,7 +101,7 @@ Te creamos tu pagina
 </head>
 <body>
     <a href="https://ice200626.github.io/web-003/">
-        <img src="f2.jpg" alt="Descripción de la imagen" width="300" height="200">
+        <img src="fondo 003.gif" alt="Descripción de la imagen" width="300" height="200">
     </a>
 </body>
 </html>
@@ -144,7 +144,7 @@ Te creamos tu pagina
 </head>
 <body>
     <a href="https://ice200626.github.io/web-003/">
-        <img src="f3.jpg" alt="Descripción de la imagen" width="300" height="200">
+        <img src="fondo 004.gif" alt="Descripción de la imagen" width="300" height="200">
     </a>
 </body>
 </html>

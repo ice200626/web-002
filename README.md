@@ -3,7 +3,7 @@
 
 
 <a href="https://ice200626.github.io/web-003/">
-  <img src="boton 002.gif" alt="Example GIF" width="350" height="350">
+  <img src="boton 002.gif" alt="Example GIF" width="300" height="300">
 </a>
 
 

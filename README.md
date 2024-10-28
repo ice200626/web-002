@@ -15,8 +15,6 @@
   <img src="boton 004.gif" alt="Example GIF" width="300" height="300"> 
 </a>
 
-<p style="color: #00FF00;">Este es un texto en color verde (HEX).</p>
-<p style="color: rgb(0, 0, 255);">Este es un texto en color azul (RGB).</p>
 
 
 <html lang="es">

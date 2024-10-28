@@ -53,6 +53,14 @@
     <h1></h1>
 </body>
 </html>
+html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botón con Hipervínculo</title>
+</head>
+<body>
+    <a href="https://ice200626.github.io/web-001/" class="boton">atras</a>
 
 
 

@@ -3,18 +3,17 @@
 
 
 <a href="https://ice200626.github.io/web-003/">
-  <img src="boton 002.gif" alt="Example GIF" width="200" height="200">
+  <img src="boton 001.gif" alt="Example GIF" width="350" height="350">
 </a>
 
 
 <a href="https://ice200626.github.io/web-003/">
-  <img src="boton 003.gif" alt="Example GIF">
+  <img src="boton 003.gif" alt="Example GIF"width="350" height="350">
 </a>
 
 <a href="https://ice200626.github.io/web-003/">
-  <img src="boton 004.gif" alt="Example GIF">
+  <img src="boton 004.gif" alt="Example GIF"width="350" height="350">
 </a>
-
 
 
 

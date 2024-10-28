@@ -1,7 +1,7 @@
 # web-002
 
 <a href="http://example.com">
-  <img src="fondo 002.gif" alt="Example GIF">
+  <img src="boton 002.gif" alt="Example GIF">
 </a>
 
 

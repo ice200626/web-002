@@ -1,41 +1,17 @@
 # web-002
 <font color="white"><p style="font-family: 'Arial', sans-serif;">
-
-
-
-
-
-
-
-
-
-
-
-    <H2><p> 
+  <H2><p> 
      puedes decirnos que tienes en mente para tu pagina web 
         </p></H2>
-
-    
- 
-      
-    
-
-
 <a href="https://ice200626.github.io/web-003/">
   <img src="boton 002.gif" alt="Example GIF" width="300" height="300">
 </a>
-
-
 <a href="https://ice200626.github.io/web-003/">
   <img src="boton 003.gif" alt="Example GIF" width="300" height="300">
 </a>
-
 <a href="https://ice200626.github.io/web-003/">
   <img src="boton 004.gif" alt="Example GIF" width="300" height="300"> 
 </a>
-
-
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -59,7 +35,6 @@
 </head>
 <body>
     <a href="https://ice200626.github.io/web-001/" class="boton">atras</a>
-
     <style>
         .boton {
             display: inline-block;
@@ -71,7 +46,6 @@
             border-radius: 5px; /* Bordes redondeados */
             transition: background-color 0.3s ease; /* Efecto al pasar el mouse */
         }
-
         .boton:hover {
             background-color: #005f6b; /* Color al pasar el mouse */
         }
